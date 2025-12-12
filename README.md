@@ -1,7 +1,7 @@
 #  Hi, I'm Alexandre Grondin
 
 🎓 Final-year engineering student @ ENSIMAG  
-🚀 Student entrepreneur & co-founder of Ailog  
+🚀 Co-founder of Ailog  
 📊 Quantitative Finance • AI • SWE
 
 ---
