@@ -23,7 +23,9 @@
 
 ## 📌 Featured Projects
 ⬇️ See pinned repositories below ⬇️
+
 [Aleo Blockchain Eclipse ](https://github.com/EclipseAleo)
+
 [Ailog RAG ](https://github.com/Ailog-projects/RAG-as-Service)
 
 
