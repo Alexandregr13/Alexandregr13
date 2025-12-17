@@ -28,6 +28,8 @@
 
 [Ailog RAG ](https://github.com/Ailog-projects/RAG-as-Service)
 
+[Couverture multi flux](https://github.com/Alexandregr13/couverture_multi_flux/settings)
+
 
 ---
 
